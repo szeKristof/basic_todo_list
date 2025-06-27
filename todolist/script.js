@@ -1,3 +1,4 @@
+
 const addButton = document.getElementById('addButton');
 
 const textInput = document.getElementById('todoInput');
