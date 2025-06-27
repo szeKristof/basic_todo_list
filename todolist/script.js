@@ -4,6 +4,7 @@ const textInput = document.getElementById('todoInput');
 
 const todoList = document.getElementById('todoList');
 
+
 addButton.addEventListener('click', ()=>{
     const description = textInput.value.trim();
 
